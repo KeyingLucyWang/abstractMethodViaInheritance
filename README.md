@@ -1,1 +1,3 @@
 # abstractMethodViaInheritance
+
+//modified by Xiaoqi

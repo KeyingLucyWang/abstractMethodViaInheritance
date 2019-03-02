@@ -4,3 +4,4 @@ public abstract class UserOfSpeakers{
 	System.out.println( retriever.speak());
     }
 }
+//modified by Xiaoqi
